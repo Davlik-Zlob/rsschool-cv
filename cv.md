@@ -34,7 +34,8 @@ function duplicateCount(text){
 ```
 
 ## Education:
-Minin Nizhny Novgorod State Pedagogical University, psychological and pedagogical faculty
+Minin Nizhny Novgorod State Pedagogical University,  
+psychological and pedagogical faculty
 
 ## Work experience:
 I have worked as
